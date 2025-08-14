@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcN3MuFGU3k=",
+  "success": true,
+  "projectFilePath": "/workspaces/event-app-dotnet/backend/TaskManager.Application/TaskManager.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identitymodel.abstractions/7.6.0/microsoft.identitymodel.abstractions.7.6.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.6.0/microsoft.identitymodel.jsonwebtokens.7.6.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identitymodel.logging/7.6.0/microsoft.identitymodel.logging.7.6.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identitymodel.tokens/7.6.0/microsoft.identitymodel.tokens.7.6.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.identitymodel.tokens.jwt/7.6.0/system.identitymodel.tokens.jwt.7.6.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

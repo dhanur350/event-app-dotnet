@@ -1,0 +1,12 @@
+/workspaces/event-app-dotnet/backend/TaskManager.Core/bin/Debug/net8.0/TaskManager.Core.deps.json
+/workspaces/event-app-dotnet/backend/TaskManager.Core/bin/Debug/net8.0/TaskManager.Core.dll
+/workspaces/event-app-dotnet/backend/TaskManager.Core/bin/Debug/net8.0/TaskManager.Core.pdb
+/workspaces/event-app-dotnet/backend/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/event-app-dotnet/backend/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.AssemblyInfoInputs.cache
+/workspaces/event-app-dotnet/backend/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.AssemblyInfo.cs
+/workspaces/event-app-dotnet/backend/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.csproj.CoreCompileInputs.cache
+/workspaces/event-app-dotnet/backend/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.sourcelink.json
+/workspaces/event-app-dotnet/backend/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.dll
+/workspaces/event-app-dotnet/backend/TaskManager.Core/obj/Debug/net8.0/refint/TaskManager.Core.dll
+/workspaces/event-app-dotnet/backend/TaskManager.Core/obj/Debug/net8.0/TaskManager.Core.pdb
+/workspaces/event-app-dotnet/backend/TaskManager.Core/obj/Debug/net8.0/ref/TaskManager.Core.dll

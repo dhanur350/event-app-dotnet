@@ -1,0 +1,16 @@
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/TaskManager.Application.csproj.AssemblyReference.cache
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/TaskManager.Application.AssemblyInfoInputs.cache
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/TaskManager.Application.AssemblyInfo.cs
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/TaskManager.Application.csproj.CoreCompileInputs.cache
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/TaskManager.Application.sourcelink.json
+/workspaces/event-app-dotnet/backend/TaskManager.Application/bin/Debug/net8.0/TaskManager.Application.deps.json
+/workspaces/event-app-dotnet/backend/TaskManager.Application/bin/Debug/net8.0/TaskManager.Application.dll
+/workspaces/event-app-dotnet/backend/TaskManager.Application/bin/Debug/net8.0/TaskManager.Application.pdb
+/workspaces/event-app-dotnet/backend/TaskManager.Application/bin/Debug/net8.0/TaskManager.Core.dll
+/workspaces/event-app-dotnet/backend/TaskManager.Application/bin/Debug/net8.0/TaskManager.Core.pdb
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/TaskMana.898BD9DB.Up2Date
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/TaskManager.Application.dll
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/refint/TaskManager.Application.dll
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/TaskManager.Application.pdb
+/workspaces/event-app-dotnet/backend/TaskManager.Application/obj/Debug/net8.0/ref/TaskManager.Application.dll
